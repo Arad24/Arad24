@@ -1,5 +1,5 @@
 # 💫 About Me
-My name is *Arad*, I am a fullstack developer from israel.
+My name is **Arad**, I am a fullstack developer from israel.
 
 # 💻 Tech Stack
 ## Backend
