@@ -1,5 +1,5 @@
 # 💫 About Me
-My name is **Arad**, I am a student & developer from israel.
+My name is **Arad**, I am a student & developer from Israel.
 
 # 💻 Tech Stack
 ## Backend
