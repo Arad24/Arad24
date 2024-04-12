@@ -18,9 +18,11 @@ My name is **Arad**, I am a student & developer from Israel.
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 </br>
 
-# 📊 GitHub Project Stats
+# 📞 Connect with me:
+<a href="https://linkedin.com/in/arad-danieli-968727278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arad-danieli-968727278" height="30" width="40" /></a>
+</br>
+
+# 📊 GitHub Projects Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arad24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-# Contact
-<a href="https://linkedin.com/in/arad-danieli-968727278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arad-danieli-968727278" height="30" width="40" /></a>
