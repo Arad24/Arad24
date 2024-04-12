@@ -21,4 +21,6 @@ My name is **Arad**, I am a student & developer from Israel.
 # 📊 GitHub Project Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arad24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# Contact
+<a href="https://linkedin.com/in/arad-danieli-968727278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arad-danieli-968727278" height="30" width="40" /></a>
