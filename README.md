@@ -1,5 +1,5 @@
 # 💫 About Me
-My name is **Arad**, I am a software enginner from Israel.
+My name is **Arad**, I am a Cybersecurity && Software Enginner
 
 # 💻 Tech Stack
 ## Backend
